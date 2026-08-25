@@ -1,7 +1,8 @@
 # CPlusPlus-Application-Design
 My C++ Application Design class projects and assignments
 
-Name: Kunpeng Liu
+##Name: Kunpeng Liu
+
 Course: CIS 25 - programming using C++
 
 Application: course work for CIS 25
