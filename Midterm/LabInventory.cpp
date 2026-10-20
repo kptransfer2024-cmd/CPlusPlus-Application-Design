@@ -75,7 +75,6 @@ void LabInventory::addDevice() {
         return;
     }
 
-    // Keep the array sorted by ID so binary search works.
     int location = 0;
     while (location < count && devices[location].getId() < id) {
         location++;
