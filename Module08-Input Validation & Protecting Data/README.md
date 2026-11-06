@@ -1,6 +1,8 @@
 ## Overview
 
-For Module 8, I added input validation to my C++ application to prevent invalid user inputs and improve reliability.
+For Module 8, I added input validation (in positiveInt.cpp) to my C++ application to prevent invalid user inputs and improve reliability.
+
+Is imported and used in module 9, an enhanced version of my application.
 
 ### What Does It Do?
 

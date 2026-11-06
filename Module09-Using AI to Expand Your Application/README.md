@@ -1,6 +1,8 @@
 ## Overview
 
-For Module 9, I added an AI Inventory Assistant prototype to my Midterm Lab Inventory Management System. It reuses my existing C++ classes (#include from /Midterm folder) and adds a new feature (Mock AI Assistant / a chatbox).
+For Module 9, I added an AI Inventory Assistant prototype to my Midterm Lab Inventory Management System. It reuses my existing C++ classes (#include from /Midterm folder) and adds a new feature (Mock AI Assistant / a chatbox). 
+
+Module 8 input validation is also used using '#include "../Module08-Input Validation & Protecting Data/positiveInt.h"'
 
 
 ### What Does It Do?
