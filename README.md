@@ -30,5 +30,7 @@ Midterm Project;
 
 Module 9 Expand App with AI;
 
+Module 10 C++ & AI;
+
 Instructions for running the application:
     Compile the C++ source file .cpp, and run the executable .exe
